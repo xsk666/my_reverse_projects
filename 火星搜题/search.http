@@ -1,0 +1,5 @@
+POST /college/android/search-item/search?format=ubb&searchType=2&text=独占设备 HTTP/1.1
+User-Agent: fenbi-android
+Host: schoolapi.fenbi.com
+Connection: Close
+Cookie: tourist=lCQU6pOcCLfi/7l/M2v8jw==; sid=-3461584217329213682; userid=104437488; 
