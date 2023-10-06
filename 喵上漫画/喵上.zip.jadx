@@ -1,0 +1,139 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "喵上.zip"
+  ],
+  "treeExpansions": [
+    [
+      "com",
+      "源代码",
+      "喵上.zip"
+    ],
+    [
+      "aster",
+      "com",
+      "源代码",
+      "喵上.zip"
+    ],
+    [
+      "core",
+      "aster",
+      "com",
+      "源代码",
+      "喵上.zip"
+    ],
+    [
+      "com.aster.core.net.safety.DES1NetSafety",
+      "safety",
+      "net",
+      "core",
+      "aster",
+      "com",
+      "源代码",
+      "喵上.zip"
+    ],
+    [
+      "comic.app",
+      "aster",
+      "com",
+      "源代码",
+      "喵上.zip"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.aster.core.net.RepsoneDataGsonResponseBodyConverter",
+      "subPath": "java",
+      "caret": 2695,
+      "view": {
+        "x": 0,
+        "y": 1280
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.aster.core.net.safety.NetSafetyUtils",
+      "subPath": "java",
+      "caret": 3288,
+      "view": {
+        "x": 0,
+        "y": 1406
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.aster.core.net.safety.DES2NetSafety",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.aster.comic.app.view.reader.loader.PageLoader",
+      "subPath": "java",
+      "caret": 56566,
+      "view": {
+        "x": 0,
+        "y": 22749
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.aster.nativecore.NativeLib",
+      "subPath": "java",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.aster.comic.app.models.AdInfo",
+      "subPath": "java",
+      "caret": 1011,
+      "view": {
+        "x": 0,
+        "y": 261
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.aster.comic.app.AppManager",
+      "subPath": "java",
+      "caret": 4590,
+      "view": {
+        "x": 0,
+        "y": 2443
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.aster.comic.app.core.DeviceUtils",
+      "subPath": "java",
+      "caret": 2203,
+      "view": {
+        "x": 0,
+        "y": 1551
+      }
+    }
+  ],
+  "activeTab": 7,
+  "cacheDir": "喵上.zip.cache",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "deviceId\"",
+    "\"psign\"",
+    "psign\"",
+    "\"sign1\"",
+    "safetyData"
+  ]
+}
